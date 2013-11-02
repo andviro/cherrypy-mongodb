@@ -1,5 +1,4 @@
-src/Cherrypy_MongoDB.egg-info
-src/dist
-src/Cherrypy_MongoDB.egg-info
-src/build
-src/CherrypyMongoDB.egg-info
+*.egg-info
+*.py[cow]
+dist
+build
